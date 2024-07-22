@@ -28,9 +28,4 @@
    &emsp;e. **Stage5** : *$project* - projected specific fields for display the final result     
    &emsp;f. **Stage6**: *$match* - $lte - fetches the absentees and students who have not completed the Task within the given date range.       
 
-
-Find only the product name and product material - find({},{...fields...}) [specific fields]
-Find all products which contain the value of soft in product material - find({...field...}) [specific field]
-Find products which contain product color indigo and product price 492.00 - find(), $and
-Delete the products which product price value are 28 - deleteOne()
-Author : Tharani K
+***Author : Tharani K***
